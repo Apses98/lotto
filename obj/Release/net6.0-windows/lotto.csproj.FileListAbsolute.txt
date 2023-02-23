@@ -1,0 +1,17 @@
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\bin\Release\net6.0-windows\lotto.exe
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\bin\Release\net6.0-windows\lotto.deps.json
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\bin\Release\net6.0-windows\lotto.runtimeconfig.json
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\bin\Release\net6.0-windows\lotto.dll
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\bin\Release\net6.0-windows\lotto.pdb
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.csproj.AssemblyReference.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.form1.resources
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.csproj.GenerateResource.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.AssemblyInfoInputs.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.AssemblyInfo.cs
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.csproj.CoreCompileInputs.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.dll
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\refint\lotto.dll
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.pdb
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\lotto.genruntimeconfig.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\lotto\obj\Release\net6.0-windows\ref\lotto.dll

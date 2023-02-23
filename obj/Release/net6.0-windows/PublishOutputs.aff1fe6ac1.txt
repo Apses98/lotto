@@ -1,0 +1,5 @@
+C:\Users\ahmaabow100\Desktop\lotto.exe
+C:\Users\ahmaabow100\Desktop\lotto.dll
+C:\Users\ahmaabow100\Desktop\lotto.deps.json
+C:\Users\ahmaabow100\Desktop\lotto.runtimeconfig.json
+C:\Users\ahmaabow100\Desktop\lotto.pdb
